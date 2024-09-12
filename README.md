@@ -1,1 +1,1 @@
-Eine Fallstudio als Mini-Projekt für eine Data-Analystics-Schulung
+Eine Fallstudie als Mini-Projekt für eine Data-Analystics-Schulung
